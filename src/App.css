@@ -1,0 +1,44 @@
+
+.App > h3{
+  margin-left: 40%;
+  margin-top: 5%;
+  padding-bottom: 0%;
+  margin-bottom: -5%;
+  color: coral;
+  text-shadow: 2px 2px pink;
+  font-weight:700;
+  font-size: 28px;
+ 
+  
+}
+.loading{
+  text-align: center;
+  padding-top: 20vh;
+  font-weight: bolder;
+  font-size: 24px;
+ 
+
+
+}
+.resultcard{
+  padding-top: 20%;
+  max-width: 500px;
+ margin: 7% 0 0 27%;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 10 0 auto ; 
+  box-shadow: 0 10px 10px 0 rgba(95, 69, 69, 0.2);
+  background-color: whitesmoke;
+
+}
+.resultcard >h3  {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  align-items: center;
+  color: plum;
+}
+.resultcard > p{
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  align-items: center;
+}
